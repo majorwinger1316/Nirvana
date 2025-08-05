@@ -6,28 +6,28 @@ A beautiful, modern iOS music player app built with SwiftUI that combines local 
 
 ### Home Screen
 <!-- Add screenshot of the main Nirvana tab with album grid -->
-![Home Screen]<img width="1179" height="2556" alt="simulator_screenshot_B450BA58-720F-4B54-B1EE-D3B08700837B" src="https://github.com/user-attachments/assets/08fed3dd-12e6-4342-86d9-d3de9c001e8a" />
+<div align="center"> <img src="https://github.com/user-attachments/assets/08fed3dd-12e6-4342-86d9-d3de9c001e8a" width="300" /> </div>
 
 ### Local Music Library
 <!-- Add screenshot of the Offline tab showing local songs -->
-![Local Library]<img width="1179" height="2556" alt="simulator_screenshot_38B737DC-6F92-4A5B-893B-8C7E8998DF61" src="https://github.com/user-attachments/assets/ef02975a-1736-4722-b9ef-e21091483714" />
+<div align="center"> <img src="https://github.com/user-attachments/assets/ef02975a-1736-4722-b9ef-e21091483714" width="300" /> </div>
 
 ### Mini Player
 <!-- Add screenshot showing the mini player at bottom -->
-![Mini Player]<img width="1179" height="248" alt="Simulator Screenshot - iPhone 16 - 2025-08-06 at 04 22 26" src="https://github.com/user-attachments/assets/bf3555d0-ebe1-4b9b-b1e0-6d21b0b054ab" />
+<div align="center"> <img src="https://github.com/user-attachments/assets/bf3555d0-ebe1-4b9b-b1e0-6d21b0b054ab" width="300" /> </div>
 
 ### Full Screen Player
 
 <!-- Add screenshot of the expanded player modal -->
-![Full Player]![simulator_screenshot_52E46697-11D2-4D30-9861-FD730D31D6B0](https://github.com/user-attachments/assets/6c79357a-103e-4b65-a76a-9b5f8164ec6d)
+<div align="center"> <img src="https://github.com/user-attachments/assets/6c79357a-103e-4b65-a76a-9b5f8164ec6d" width="300" /> </div>
 
 ### Queue Management
 <!-- Add screenshot of the queue tab in player modal -->
-![Queue]<img width="1179" height="2556" alt="simulator_screenshot_DCABF275-2A69-4278-9265-71FA59B5DEAC" src="https://github.com/user-attachments/assets/6fd7ebff-4af5-4176-bcbd-a176aafe202c" />
+<div align="center"> <img src="https://github.com/user-attachments/assets/6fd7ebff-4af5-4176-bcbd-a176aafe202c" width="300" /> </div>
 
 ### Online Music Discovery
 <!-- Add screenshot of The Weeknd albums page -->
-![Online Discovery]<img width="1179" height="1366" alt="Simulator Screenshot - iPhone 16 - 2025-08-06 at 04 26 41" src="https://github.com/user-attachments/assets/34e3092e-4cbb-420d-8b4b-ed137550dcc2" />
+<div align="center"> <img src="https://github.com/user-attachments/assets/34e3092e-4cbb-420d-8b4b-ed137550dcc2" width="300" /> </div>
 
 ## Features
 
