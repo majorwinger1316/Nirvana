@@ -261,10 +261,6 @@ let picker = UIDocumentPickerViewController(
 - [ ] **Unit Tests** - Comprehensive test coverage
 - [ ] **Performance Optimization** - Memory and battery improvements
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - **TheAudioDB** - Music metadata API
