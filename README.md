@@ -10,24 +10,23 @@ A beautiful, modern iOS music player app built with SwiftUI that combines local 
 
 ### Local Music Library
 <!-- Add screenshot of the Offline tab showing local songs -->
-<div align="center"> <img src="https://github.com/user-attachments/assets/ef02975a-1736-4722-b9ef-e21091483714" width="300" /> </div>
+<div align="left"> <img src="https://github.com/user-attachments/assets/ef02975a-1736-4722-b9ef-e21091483714" width="300" /> </div>
 
 ### Mini Player
 <!-- Add screenshot showing the mini player at bottom -->
-<div align="center"> <img src="https://github.com/user-attachments/assets/bf3555d0-ebe1-4b9b-b1e0-6d21b0b054ab" width="300" /> </div>
+<div align="left"> <img src="https://github.com/user-attachments/assets/bf3555d0-ebe1-4b9b-b1e0-6d21b0b054ab" width="300" /> </div>
 
 ### Full Screen Player
-
 <!-- Add screenshot of the expanded player modal -->
-<div align="center"> <img src="https://github.com/user-attachments/assets/6c79357a-103e-4b65-a76a-9b5f8164ec6d" width="300" /> </div>
+<div align="left"> <img src="https://github.com/user-attachments/assets/6c79357a-103e-4b65-a76a-9b5f8164ec6d" width="300" /> </div>
 
 ### Queue Management
 <!-- Add screenshot of the queue tab in player modal -->
-<div align="center"> <img src="https://github.com/user-attachments/assets/6fd7ebff-4af5-4176-bcbd-a176aafe202c" width="300" /> </div>
+<div align="left"> <img src="https://github.com/user-attachments/assets/6fd7ebff-4af5-4176-bcbd-a176aafe202c" width="300" /> </div>
 
 ### Online Music Discovery
 <!-- Add screenshot of The Weeknd albums page -->
-<div align="center"> <img src="https://github.com/user-attachments/assets/34e3092e-4cbb-420d-8b4b-ed137550dcc2" width="300" /> </div>
+<div align="left"> <img src="https://github.com/user-attachments/assets/34e3092e-4cbb-420d-8b4b-ed137550dcc2" width="300" /> </div>
 
 ## Features
 
