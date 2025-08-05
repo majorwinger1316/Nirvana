@@ -6,7 +6,7 @@ A beautiful, modern iOS music player app built with SwiftUI that combines local 
 
 ### Home Screen
 <!-- Add screenshot of the main Nirvana tab with album grid -->
-<div align="center"> <img src="https://github.com/user-attachments/assets/08fed3dd-12e6-4342-86d9-d3de9c001e8a" width="300" /> </div>
+<div align="left"> <img src="https://github.com/user-attachments/assets/08fed3dd-12e6-4342-86d9-d3de9c001e8a" width="300" /> </div>
 
 ### Local Music Library
 <!-- Add screenshot of the Offline tab showing local songs -->
